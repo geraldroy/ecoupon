@@ -1,0 +1,93 @@
+/* =========================================
+   Typography
+   =========================================
+*/
+
+h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
+  font-family: "Lato", "Helvetica Neue", Arial;
+}
+
+.bold {
+  font-style: 600;
+}
+
+.firm {
+  font-variant:small-caps;
+}
+
+.big-text {
+  font-size: 1.2em;
+}
+
+.small-text {
+  font-size: 0.5em;
+}
+
+.white {
+  color: #fff;
+}
+
+.sub-white {
+  color: #e8e8e8;
+}
+
+.black {
+  color: #000;
+}
+
+/* =========================================
+   Sections
+   =========================================
+*/
+
+.desc {
+  padding-bottom: 22px;
+  margin-top: 44px;
+  margin-bottom: 44px;
+  text-align: center;
+  border-bottom: solid #ddd 1px;
+  line-height: 44px;
+}
+
+#navbar {
+  background-color: #fff;
+  border-bottom: solid #097DB3 8px;
+}
+
+.footer {
+  padding-left: 22px;
+  border-top: solid #ddd 1px;
+}
+
+.add-margin-bottom {
+  margin-bottom: 44px;
+}
+
+.big-margin-bottom {
+  margin-bottom: 66px;
+}
+
+.small-margin-bottom {
+  margin-bottom: 22px;
+}
+
+.min-top-margin {
+  margin-top: -22px;
+}
+
+.add-top-margin {
+  margin-top: 12px;
+}
+
+.indent {
+  margin-left: 22px;
+}
+
+.footer {
+  margin-top: 66px;
+  padding: 22px;
+}
+
+.home-img {
+  max-width: 100%;
+}
