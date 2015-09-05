@@ -102,8 +102,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
@@ -124,8 +124,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
