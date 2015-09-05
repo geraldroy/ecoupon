@@ -99,3 +99,8 @@ h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
 .absolute {
   position: absolute;
 }
+
+.cont {
+  max-width: 900px;
+  margin: 0 auto;
+}
