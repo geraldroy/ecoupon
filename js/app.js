@@ -4,7 +4,7 @@ $(document).ready(function(){
     window.location.replace(base_url + "/choose");
   });
 
-  $("#plant").click(function(){
+  $(".plant").click(function(){
     $('.ui.modal').modal('show');
   });
 });

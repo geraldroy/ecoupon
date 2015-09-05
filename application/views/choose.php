@@ -31,7 +31,7 @@
               22 planted
             </div>
           </div>
-          <div class="ui bottom attached button" id="plant">
+          <div class="ui bottom attached button plant">
              Plant a seed!
           </div>
         </div>
@@ -50,13 +50,16 @@
             <div class="description">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
             </div>
-          <div class="extra content">
-            <br>
-            <i class="fa fa-leaf"></i>
-            22 planted
-          </div>        
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
           </div>
-        </div>        
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
       </div>
 
       <div class="eight wide column">
@@ -72,13 +75,16 @@
             <div class="description">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
             </div>
-          <div class="extra content">
-            <br>
-            <i class="fa fa-leaf"></i>
-            22 planted
-          </div>        
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
           </div>
-        </div>        
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
       </div>
 
       <div class="eight wide column">
@@ -94,13 +100,16 @@
             <div class="description">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
             </div>
-          <div class="extra content">
-            <br>
-            <i class="fa fa-leaf"></i>
-            22 planted
-          </div>        
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
           </div>
-        </div>        
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
       </div>
 
       <div class="eight wide column">
@@ -116,13 +125,16 @@
             <div class="description">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
             </div>
-          <div class="extra content">
-            <br>
-            <i class="fa fa-leaf"></i>
-            22 planted
-          </div>        
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
           </div>
-        </div>        
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
       </div>
 
       <div class="eight wide column">
@@ -138,14 +150,68 @@
             <div class="description">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
             </div>
-          <div class="extra content">
-            <br>
-            <i class="fa fa-leaf"></i>
-            22 planted
-          </div>        
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
           </div>
-        </div>        
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
       </div>
+
+      <div class="eight wide column">
+        <div class="ui link fluid card">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>" alt="" class="card-img">
+          </div>
+          <div class="content">
+            <a href="#" class="header">Tree</a>
+            <div class="meta">
+              <span class="date">Scientific Name</span>
+            </div>
+            <div class="description">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+            </div>
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
+          </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
+      </div>
+
+      <div class="eight wide column">
+        <div class="ui link fluid card">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>" alt="" class="card-img">
+          </div>
+          <div class="content">
+            <a href="#" class="header">Tree</a>
+            <div class="meta">
+              <span class="date">Scientific Name</span>
+            </div>
+            <div class="description">
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+            </div>
+            <div class="extra content">
+              <br>
+              <i class="fa fa-leaf"></i>
+              22 planted
+            </div>
+          </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
+        </div>
+      </div>
+
 
     </div>    
   </div>
