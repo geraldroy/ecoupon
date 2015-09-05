@@ -92,8 +92,8 @@ h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
   max-width: 100%;
 }
 
-.absolute {
-  position: absolute;
+.relative {
+  position: relative;
 }
 
 .absolute {
@@ -104,3 +104,15 @@ h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
   max-width: 900px;
   margin: 0 auto;
 }
+
+/*.card-img {
+  height: auto; 
+  width: auto; 
+  max-width: 250px; 
+  max-height: 250px;  
+  margin: 0 auto;
+}
+
+.white-bg {
+  background: #fff;  
+}*/

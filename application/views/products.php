@@ -14,8 +14,8 @@
     <div class="ui cards stackable grid">
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>img/pillow.jpg" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>img/pillow.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Green Pillow</a>
@@ -36,8 +36,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>/img/bulb.jpg" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>/img/bulb.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
@@ -58,8 +58,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>/img/tumbler.jpg" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>/img/tumbler.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
@@ -80,8 +80,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>/img/cpcase.jpg" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>/img/cpcase.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
@@ -102,8 +102,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
@@ -124,8 +124,8 @@
 
       <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image">
-            <img src="<?php echo base_url();?>" alt="">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Product</a>
