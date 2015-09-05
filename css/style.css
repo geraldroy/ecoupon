@@ -98,12 +98,19 @@ h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
 
 .absolute {
   position: absolute;
+  right: 250px;
+  top: 120px;
 }
 
 .cont {
   max-width: 900px;
   margin: 0 auto;
 }
+
+.max-width {
+  max-width: 100%;
+}
+
 
 /*.card-img {
   height: auto; 

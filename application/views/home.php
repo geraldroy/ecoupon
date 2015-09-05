@@ -4,19 +4,23 @@
   <script src="<?php echo base_url(); ?>/js/semantic.min.js"></script>
   <script src="<?php echo base_url(); ?>/js/app.js"></script>
 
-<div class="column">
+<div class="sixteen wide column">
   <div class="absolute">
-    <div class="ten wide column"></div>
-    <div class="six wide column">
-  </div>
-    <div class="input">
+   <h1>ECoupon</h1>
+    <p>Get a sticker. Plant a tree.</p>
+    <div class="ui input">
       <input type="text" placeholder="Enter code..." id="code">
       <button class="ui primary button" id="submit-code">Go</div>
-    </div>    
-  </div>  
+    </div>
+    
+  </div>
 </div>
 
+
+<div class="column">
   <img src="<?php echo base_url(); ?>/img/seeds.jpeg" alt="" class="home-img">
+</div>
+
 </div>
 
 <div class="cont">
@@ -39,5 +43,3 @@
 </div>
 
 <?php $this->load->view('layouts/_footer'); ?>
-
-
