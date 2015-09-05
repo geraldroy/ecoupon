@@ -2,7 +2,7 @@
 <?php $this->load->view('layouts/_nav'); ?>
 
 <div class="column">
-  <img src="/img/seeds.jpeg" alt="" class="home-img">
+  <img src="<?php echo base_url();?>/img/seeds.jpeg" alt="" class="home-img">
 </div>
 
 <div class="ui stackable grid">
