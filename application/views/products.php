@@ -59,15 +59,15 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/tumbler.jpg" alt="">
+            <img src="<?php echo base_url();?>/img/products/remote.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Tumbler</a>
+            <a href="#" class="header">Eco-Friendly Remote Control</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
             <div class="description">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+              To start navigating, one can wave the conductor left and right to change your TV set’s volume, up and down to change channels and in a circular motion to switch your TV set on or off. The presence of the kinetic energy on this remote made it the most efficient remote control in the market today. Might be tiring, but it’s a green and creative idea!
             </div>
           <div class="extra content">
             <br>
@@ -103,15 +103,15 @@
 	    <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/cpcase.jpg" alt="">
+            <img src="<?php echo base_url();?>/img/products/moss.png" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">IPhone Case</a>
+            <a href="#" class="header">Moss Carpet</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
             <div class="description">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+              Made from imputrescible foam called plastazote, the mat includes ball moss, island moss and forest moss. The humidity of the bathroom ensures that the mosses thrive, and that’s why you need to place it there and not anywhere else.
             </div>
 			  <div class="extra content">
 				<br>
@@ -132,8 +132,8 @@
               <span class="date">Echo Store</span>
             </div>
             <div class="description">
-              Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
-            </div>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+			</div>
           <div class="extra content">
       	   <br>
             <i class="fa fa-star"></i>
@@ -199,8 +199,8 @@
               <span class="date">Echo Store</span>
             </div>
             <div class="description">
-              Handcrafted by the enterprising men and women of Daraga and Camalig, Albay. This basket is weaved from abaca. The program is an initiative of Philippine Social Enterprise and Development Center to empower micro-entrepreneurs and their communities towards sustainable development in the Bicol Region.
-            </div>
+              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+			</div>
           <div class="extra content">
             <br>
             <i class="fa fa-star"></i>
