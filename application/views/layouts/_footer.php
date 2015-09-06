@@ -1,5 +1,5 @@
   <footer class="ui footer">
-    <p>HackTheClimate</p>
+    <p class="firm">HackTheClimate</p>
   </footer>
 </body>
 </html>

@@ -91,3 +91,35 @@ h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
 .home-img {
   max-width: 100%;
 }
+
+.relative {
+  position: relative;
+}
+
+.absolute {
+  position: absolute;
+  right: 250px;
+  top: 120px;
+}
+
+.cont {
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.max-width {
+  max-width: 100%;
+}
+
+
+/*.card-img {
+  height: auto; 
+  width: auto; 
+  max-width: 250px; 
+  max-height: 250px;  
+  margin: 0 auto;
+}
+
+.white-bg {
+  background: #fff;  
+}*/

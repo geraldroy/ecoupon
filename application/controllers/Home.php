@@ -16,6 +16,10 @@ class Home extends CI_Controller {
   }
 
   public function advocacy(){
-		$this->load->view('advocacy');
+    $this->load->view('advocacy');
+  }
+
+  public function choose(){
+		$this->load->view('choose');
 	}
 }

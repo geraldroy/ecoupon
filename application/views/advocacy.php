@@ -1,27 +1,12 @@
 <?php $this->load->view('layouts/_head'); ?>
 <?php $this->load->view('layouts/_nav'); ?>
 
-<div class="column">
-  <img src="/img/seeds.jpeg" alt="" class="home-img">
+<div class="desc column">
+  <h1>Our Advocacy</h1>
 </div>
 
-<div class="ui stackable grid">
-  <div class="four wide column">
-    <h1>Semantic UI</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>      
-  </div>
-  <div class="four wide column">
-    <h1>Semantic UI</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>      
-  </div>
-  <div class="four wide column">
-    <h1>Semantic UI</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>      
-  </div>
-  <div class="four wide column">
-    <h1>Semantic UI</h1>
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>      
-  </div>
-</div>    
+<div class="cont big-text">
+  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quaerat sunt vitae, eaque minima eum beatae. Aperiam exercitationem consectetur, nesciunt vitae qui quidem voluptas quas. Asperiores vel illo fuga commodi!
+</div>
 
 <?php $this->load->view('layouts/_footer'); ?>
