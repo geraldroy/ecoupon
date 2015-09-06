@@ -32,6 +32,9 @@
             531 planted
           </div>
           </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
         </div>
       </div>
 
@@ -53,6 +56,9 @@
             <i class="fa fa-leaf"></i>
             348 planted
           </div>
+          </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
           </div>
         </div>
       </div>
@@ -76,6 +82,9 @@
             883 planted
           </div>
           </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
         </div>
       </div>
 
@@ -97,6 +106,9 @@
             <i class="fa fa-leaf"></i>
             176 planted
           </div>
+          </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
           </div>
         </div>
       </div>
@@ -120,6 +132,9 @@
             150 planted
           </div>
           </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
         </div>
       </div>
 
@@ -141,6 +156,9 @@
             <i class="fa fa-leaf"></i>
             87 planted
           </div>
+          </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
           </div>
         </div>
       </div>
@@ -164,6 +182,9 @@
             383 planted
           </div>
           </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
         </div>
       </div>
 
@@ -185,6 +206,9 @@
             <i class="fa fa-leaf"></i>
             376 planted
           </div>
+          </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
           </div>
         </div>
       </div>
@@ -208,6 +232,9 @@
             979 planted
           </div>
           </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
         </div>
       </div>
 
@@ -230,10 +257,20 @@
             988 planted
           </div>
           </div>
+          <div class="ui bottom attached button plant">
+             Plant a seed!
+          </div>
         </div>
       </div>
 
     </div>
+  </div>
+</div>
+
+<div class="ui modal">
+  <div class="content">
+   <h3>Great!</h3>
+   <p>We'll let our NGO partners know so they'll plant the tree of your choice. Thanks!</p>    
   </div>
 </div>
 

@@ -81,6 +81,28 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
+            <img src="<?php echo base_url();?>/img/products/buri box.jpg" alt="">
+          </div>
+          <div class="content">
+            <a href="#" class="header">Buri Box</a>
+            <div class="meta">
+              <span class="date">Echo Store</span>
+            </div>
+            <div class="description">
+              Each item is handcrafted using fiber from the bariw tree, abaca fiber, and buri palm. Every purchase contributes to the livelihood and sustainability of the people in Pandan, Antique.
+            </div>
+          <div class="extra content">
+            <br>
+            <i class="fa fa-star"></i>
+            22 stickers left!
+          </div>
+          </div>
+        </div>
+      </div>
+
+	  <div class="eight wide column">
+        <div class="ui link fluid card">
+          <div class="image">
             <img src="<?php echo base_url();?>/img/products/cpcase.jpg" alt="">
           </div>
           <div class="content">
@@ -99,14 +121,13 @@
           </div>
         </div>
       </div>
-
-      <div class="eight wide column">
+	  
+	  <div class="eight wide column">
         <div class="ui link fluid card">
-          <div class="image white-bg">
             <img src="<?php echo base_url();?>img/products/bike.jpg" alt="" class="card-img">
-          </div>
-          <div class="content">
-            <a href="#" class="header">Bamboo Bike</a>
+			</div>
+			<div class="content">
+				<a href="#" class="header">Bamboo Bike</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
@@ -121,6 +142,50 @@
           </div>
         </div>
       </div>
+	  
+      <div class="eight wide column">
+        <div class="ui link fluid card">
+          <div class="image white-bg">
+            <img src="<?php echo base_url();?>/img/products/echo chocolate.jpg" alt="" class="card-img">
+          </div>
+          <div class="content">
+            <a href="#" class="header">Choco Loco Bards</a>
+            <div class="meta">
+              <span class="date">Echo Store</span>
+            </div>
+            <div class="description">
+              Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
+            </div>
+          <div class="extra content">
+      	   <br>
+            <i class="fa fa-star"></i>
+            22 stickers left!
+          </div>
+          </div>
+        </div>
+      </div>
+	  
+	  <div class="eight wide column">
+        <div class="ui link fluid card">
+          <div class="image white-bg">
+			 <img src="<?php echo base_url();?>/img/products/abaca basket.jpg" alt="" class="card-img">
+          </div>
+          <div class="content">
+            <a href="#" class="header">Abaca Basket</a>
+            <div class="meta">
+              <span class="date">Echo Store</span>
+            </div>
+            <div class="description">
+              Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
+            </div>
+          <div class="extra content">
+      	   <br>
+            <i class="fa fa-star"></i>
+            22 stickers left!
+          </div>
+          </div>
+        </div>
+      </div>
 
       <div class="eight wide column">
         <div class="ui link fluid card">
@@ -129,11 +194,12 @@
           </div>
           <div class="content">
             <a href="#" class="header">Dried Mangoes</a>
+
             <div class="meta">
-              <span class="date">Organization</span>
+              <span class="date">Echo Store</span>
             </div>
             <div class="description">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+              Handcrafted by the enterprising men and women of Daraga and Camalig, Albay. This basket is weaved from abaca. The program is an initiative of Philippine Social Enterprise and Development Center to empower micro-entrepreneurs and their communities towards sustainable development in the Bicol Region.
             </div>
           <div class="extra content">
             <br>
