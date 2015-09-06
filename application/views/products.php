@@ -113,15 +113,14 @@
             <div class="description">
               Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
             </div>
-          <div class="extra content">
-            <br>
-            <i class="fa fa-star"></i>
-            22 stickers left!
-          </div>
+			  <div class="extra content">
+				<br>
+				<i class="fa fa-star"></i>
+				22 stickers left!
+			  </div>
           </div>
         </div>
       </div>
-
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
@@ -130,13 +129,13 @@
           <div class="content">
             <a href="#" class="header">Bamboo Bike</a>
             <div class="meta">
-              <span class="date">Organization</span>
+              <span class="date">Echo Store</span>
             </div>
             <div class="description">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Vero itaque beatae aliquid aperiam ea sapiente repudiandae, repellat consequuntur, quos fugiat in, nesciunt sed. Iure laboriosam soluta inventore porro, sint cumque.
+              Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
             </div>
           <div class="extra content">
-            <br>
+      	   <br>
             <i class="fa fa-star"></i>
             22 stickers left!
           </div>

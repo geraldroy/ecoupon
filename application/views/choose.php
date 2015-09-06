@@ -24,7 +24,7 @@
               <span class="date">Lagerstroemia speciosa</span>
             </div>
             <div class="description">
-               Due to the tree’s dense and wide spreading root system, Banaba is used for erosion control.
+               An attractive tree that is considered the perfect roadside planting. Its root system can control erosion on slight slopes and it’s a showy tree with bright purple flowers.
             </div>
           <div class="extra content">
             <br>
@@ -49,7 +49,7 @@
               <span class="date">Cananga odorata</span>
             </div>
             <div class="description">
-              The wood can be used for firewood, wooden clogs, and net floaters.
+              This small tree is perfect if you want to mask the otherwise smelly parts of the city. Chanel No. 5 uses the extract from ilang-ilang.
             </div>
           <div class="extra content">
             <br>
@@ -74,7 +74,7 @@
               <span class="date">Vitex parviflora</span>
             </div>
             <div class="description">
-              Molave, being one of the hardest woods, is used in railroad ties, ship-building, wagon-making, bridges, cabinets, and etc.
+               This is a tough tree and suitable for coastal areas too. Many are familiar with President Manuel L. Quezon’s directive — “I want our people to be like a molave tree. Strong and resilient, standing on the hillside and unafraid of the rising tide, lighting and the storm, confident of their strength.”
             </div>
           <div class="extra content">
             <br>
@@ -91,15 +91,15 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>img/trees/bougainvillea.jpg" alt="">
+            <img src="<?php echo base_url();?>img/trees/catmon.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Bougainvillea</a>
+            <a href="#" class="header">Katmon</a>
             <div class="meta">
-              <span class="date">Bougainvillea glabra</span>
+              <span class="date">Dillenia philippinensis</span>
             </div>
             <div class="description">
-              Bougainvilleas require little water once established, and in fact will not flourish if over-watered.
+				National Artist for Landscape Architecture IP Santos used this small tree in his early designs. It is a great tree to use as screen planting because of its dense foliage.
             </div>
           <div class="extra content">
             <br>
@@ -116,15 +116,15 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>img/trees/sampaloc.jpg" alt="">
+            <img src="<?php echo base_url();?>img/trees/bani.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Sampaloc</a>
+            <a href="#" class="header">Bani</a>
             <div class="meta">
-              <span class="date">Tamarindus indica</span>
+              <span class="date">Milletia pinnata</span>
             </div>
             <div class="description">
-              Tamarind heartwood can be used in making furniture and wood flooring.
+              This medium-sized tree is a great roadside choice with a nice habit of growth and silhouette. Its lilac and pink flowers make it really attractive.
             </div>
           <div class="extra content">
             <br>
@@ -141,15 +141,15 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>img/trees/narra.jpg" alt="">
+            <img src="<?php echo base_url();?>img/trees/alibangbang.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Narra</a>
+            <a href="#" class="header">Alibangbang</a>
             <div class="meta">
-              <span class="date">Pterocarpus indicus</span>
+              <span class="date">Bauhinia malabarica</span>
             </div>
             <div class="description">
-              It is the favorite timber for the manufacture of fine furniture, cabinetry, cart wheels, carving, construction, and musical instruments.
+              The small tree has good structure and can be used is a variety of urban settings.
             </div>
           <div class="extra content">
             <br>
@@ -166,12 +166,12 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>img/trees/guyabano.jpeg" alt="">
+            <img src="<?php echo base_url();?>img/trees/banuyo.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Guyabano</a>
+            <a href="#" class="header">Banuyo</a>
             <div class="meta">
-              <span class="date">Annona muricata</span>
+              <span class="date">Wallaceodendron celebicum</span>
             </div>
             <div class="description">
               Guyabano is eaten ripe, or used to make juices, smoothies, or ice cream.
@@ -191,15 +191,15 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>img/trees/fire_tree.jpg" alt="">
+            <img src="<?php echo base_url();?>img/trees/dita.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Fire Tree</a>
+            <a href="#" class="header">Dita</a>
             <div class="meta">
-              <span class="date">Delonix regia</span>
+              <span class="date">Alstonia scholaris</span>
             </div>
             <div class="description">
-              Fire trees are easy to maintain and they look pleasant.
+              This tree can grow to 50 meters, although in urban setting slightly shorter. It is an ideal street tree. It is now planted along both sides of the renovated Ayala Avenue.
             </div>
           <div class="extra content">
             <br>
@@ -216,15 +216,15 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>img/trees/acacia.jpg" alt="">
+            <img src="<?php echo base_url();?>img/trees/anahaw.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Acacia</a>
+            <a href="#" class="header">Anahaw</a>
             <div class="meta">
-              <span class="date">* saman</span>
+              <span class="date">Saribus rotundifolius</span>
             </div>
             <div class="description">
-              Various species of acacia yield gum.
+              The anahaw is a beautiful palm to line avenues and create alleys with.
             </div>
           <div class="extra content">
             <br>
