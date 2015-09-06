@@ -30,17 +30,17 @@
       <div class="column">
         <img src="<?php echo base_url(); ?>/img/tree.png" alt="" class="resize">
         <h1>2000+ Trees</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>
+        <p>And this is just the beginning. Preserve our forests. Help the environment.</p>
       </div>
       <div class="column">
         <img src="<?php echo base_url(); ?>/img/earth.png" alt="" class="resize">
         <h1>20+ NGOs</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>
+        <p>We fund NGOs through your everyday actions. Help us battle climate change.</p>
       </div>
       <div class="column">
         <img src="<?php echo base_url(); ?>/img/check.png" alt="" class="resize">
         <h1>... more causes!</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>
+        <p>Tree planting is just the start. We're expanding to marine, energy, and other environmental causes!</p>
       </div>
     </div>
   </div>

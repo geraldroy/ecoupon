@@ -13,7 +13,7 @@
 
 <?php $this->load->view('layouts/_nav'); ?>
 <script src="<?php echo base_url(); ?>/js/app.js"></script>
-<script src="<?php echo base_url(); ?>/js/fullpage.js"></script>
+// <script src="<?php echo base_url(); ?>/js/fullpage.js"></script>
 
 <div id="fullpage">
   <div class="desc column" id="section">
