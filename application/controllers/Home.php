@@ -20,6 +20,6 @@ class Home extends CI_Controller {
   }
 
   public function choose(){
-		$this->load->view('choose');
-	}
+    $this->load->view('choose');
+  }
 }
