@@ -107,19 +107,12 @@ h1, h2, h3, h4, h5, p, a, small, li, label, td, tr {
   margin: 0 auto;
 }
 
-.max-width {
-  max-width: 100%;
+.resize {
+  height: auto;
+  width: auto;
+  max-width: 200px;
+  max-height: 200px;
+
 }
 
 
-/*.card-img {
-  height: auto; 
-  width: auto; 
-  max-width: 250px; 
-  max-height: 250px;  
-  margin: 0 auto;
-}
-
-.white-bg {
-  background: #fff;  
-}*/
