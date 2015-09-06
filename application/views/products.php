@@ -100,7 +100,7 @@
         </div>
       </div>
 
-	  <div class="eight wide column">
+	    <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
             <img src="<?php echo base_url();?>/img/products/cpcase.jpg" alt="">
@@ -121,13 +121,14 @@
           </div>
         </div>
       </div>
-	  
-	  <div class="eight wide column">
+
+      <div class="eight wide column">
         <div class="ui link fluid card">
-            <img src="<?php echo base_url();?>img/products/bike.jpg" alt="" class="card-img">
-			</div>
-			<div class="content">
-				<a href="#" class="header">Bamboo Bike</a>
+          <div class="image">
+            <img src="<?php echo base_url();?>/img/products/bike.jpg" alt="">
+          </div>
+          <div class="content">
+            <a href="#" class="header">Bamboo Bike</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
@@ -142,7 +143,7 @@
           </div>
         </div>
       </div>
-	  
+
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image white-bg">
@@ -157,18 +158,18 @@
               Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
             </div>
           <div class="extra content">
-      	   <br>
+           <br>
             <i class="fa fa-star"></i>
             22 stickers left!
           </div>
           </div>
         </div>
       </div>
-	  
-	  <div class="eight wide column">
+    
+      <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image white-bg">
-			 <img src="<?php echo base_url();?>/img/products/abaca basket.jpg" alt="" class="card-img">
+       <img src="<?php echo base_url();?>/img/products/abaca basket.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Abaca Basket</a>
@@ -179,7 +180,7 @@
               Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
             </div>
           <div class="extra content">
-      	   <br>
+           <br>
             <i class="fa fa-star"></i>
             22 stickers left!
           </div>
@@ -209,7 +210,6 @@
           </div>
         </div>
       </div>
-
     </div>
   </div>
 </div>
