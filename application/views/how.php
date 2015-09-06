@@ -9,7 +9,7 @@
   <h3>
     Look for our stickers on eco-friendly and local products.
   </h3>
-  <img src="<?php echo base_url(); ?>/img/step1.jpg" alt="">
+  <img src="<?php echo base_url(); ?>img/step1.png" alt="">
 </div>
 
 <div class="cont">
@@ -23,21 +23,21 @@
   <h3>
     See that code on the sticker?
   </h3>
-  <img src="<?php echo base_url(); ?>/img/logocode.png" alt="" class="resize">
+  <img src="<?php echo base_url(); ?>img/step2.png" alt="" class="resize">
 </div>
 
 <div class="cont">
   <h3>
     Enter the code on our site.
   </h3>
-  <img src="<?php echo base_url(); ?>/img/logocode.png" alt="" class="resize">
+  <img src="<?php echo base_url(); ?>img/step3.png" alt="">
 </div>
 
 <div class="cont">
   <h3>
     Pick a tree you want to sponsor.
   </h3>
-  <img src="<?php echo base_url(); ?>/img/logocode.png" alt="" class="resize">
+  <img src="<?php echo base_url(); ?>img/step4.png" alt="">
 </div>
 
 
@@ -45,6 +45,7 @@
   <h3>
     Congrats! An NGO will plant your tree on your behalf! :)
   </h3>
+  <img src="<?php echo base_url(); ?>img/step5.jpg" alt="" class="resize-big">
 </div>
 
 
