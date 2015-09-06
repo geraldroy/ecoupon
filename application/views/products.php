@@ -40,7 +40,7 @@
             <img src="<?php echo base_url();?>/img/products/bulb.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Product</a>
+            <a href="#" class="header">LED Bulb</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
@@ -62,7 +62,7 @@
             <img src="<?php echo base_url();?>/img/products/tumbler.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Product</a>
+            <a href="#" class="header">Tumbler</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
@@ -84,7 +84,7 @@
             <img src="<?php echo base_url();?>/img/products/cpcase.jpg" alt="">
           </div>
           <div class="content">
-            <a href="#" class="header">Product</a>
+            <a href="#" class="header">IPhone Case</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
@@ -103,10 +103,10 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image white-bg">
-            <img src="<?php echo base_url();?>" alt="" class="card-img">
+            <img src="<?php echo base_url();?>img/products/bike.jpg" alt="" class="card-img">
           </div>
           <div class="content">
-            <a href="#" class="header">Product</a>
+            <a href="#" class="header">Bamboo Bike</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
@@ -125,10 +125,10 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image white-bg">
-            <img src="<?php echo base_url();?>" alt="" class="card-img">
+            <img src="<?php echo base_url();?>img/products/mango.jpg" alt="" class="card-img">
           </div>
           <div class="content">
-            <a href="#" class="header">Product</a>
+            <a href="#" class="header">Dried Mangoes</a>
             <div class="meta">
               <span class="date">Organization</span>
             </div>
