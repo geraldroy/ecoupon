@@ -11,7 +11,10 @@
     <p>Get a sticker. Plant a tree.</p>
     <div class="ui input">
       <input type="text" placeholder="Enter code..." id="code">
-      <button class="ui primary button top-margin" id="submit-code">Go</div>
+      <br><br>
+      <button class="ui primary button" id="submit-code">
+        <i class="fa fa-arrow-right"></i>
+      </button>
     </div>
   </div>
 </div>
