@@ -177,7 +177,7 @@
               <span class="date">Echo Store</span>
             </div>
             <div class="description">
-              Also known as tableja (täb-leee-jäh) in Canjulao, Jagna, Bohol. This hand processed and molded pure chocolate is made solely from finest selected quality cacao beans in Bohol.
+            Handcrafted by the enterprising men and women of Daraga and Camalig, Albay. This basket is weaved from abaca. The program is an initiative of Philippine Social Enterprise and Development Center to empower micro-entrepreneurs and their communities towards sustainable development in the Bicol Region.
             </div>
           <div class="extra content">
            <br>
