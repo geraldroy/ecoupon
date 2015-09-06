@@ -1,8 +1,8 @@
 <?php $this->load->view('layouts/_head'); ?>
 <?php $this->load->view('layouts/_nav'); ?>
-  <script src="<?php echo base_url(); ?>/js/jquery.js"></script>
-  <script src="<?php echo base_url(); ?>/js/semantic.min.js"></script>
-  <script src="<?php echo base_url(); ?>/js/app.js"></script>
+  <script src="<?php echo base_url(); ?>js/jquery.js"></script>
+  <script src="<?php echo base_url(); ?>js/semantic.min.js"></script>
+  <script src="<?php echo base_url(); ?>js/app.js"></script>
 
 <div class="desc column">
   <h1>Choose a Tree!</h1>

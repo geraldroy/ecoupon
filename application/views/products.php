@@ -1,12 +1,12 @@
 <?php $this->load->view('layouts/_head'); ?>
 <?php $this->load->view('layouts/_nav'); ?>
-  <script src="<?php echo base_url(); ?>/js/jquery.js"></script>
-  <script src="<?php echo base_url(); ?>/js/semantic.min.js"></script>
-  <script src="<?php echo base_url(); ?>/js/app.js"></script>
+  <script src="<?php echo base_url(); ?>js/jquery.js"></script>
+  <script src="<?php echo base_url(); ?>js/semantic.min.js"></script>
+  <script src="<?php echo base_url(); ?>js/app.js"></script>
 
 <div class="desc column">
   <h1>Eco and Local</h1>
-  <p>Buy these products from our partner organizations. We guarantee these are eco-friendly or locally made!</p>
+  <p>Find the eco-sticker on these products from our partner organizations. We guarantee these are eco-friendly or locally made!</p>
 </div>
 
 <div class="">
@@ -37,7 +37,7 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/bulb.jpg" alt="">
+            <img src="<?php echo base_url();?>img/products/bulb.jpg" alt="">
           </div>
           <div class="content">
             <a href="#" class="header">LED Bulb</a>
@@ -59,7 +59,7 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/remote.jpg" alt="">
+            <img src="<?php echo base_url();?>img/products/remote.jpg" alt="">
           </div>
           <div class="content">
             <a href="#" class="header">Eco-Friendly Remote Control</a>
@@ -81,7 +81,7 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/buri box.jpg" alt="">
+            <img src="<?php echo base_url();?>img/products/buri box.jpg" alt="">
           </div>
           <div class="content">
             <a href="#" class="header">Buri Box</a>
@@ -103,7 +103,7 @@
 	    <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/moss.png" alt="">
+            <img src="<?php echo base_url();?>img/products/moss.png" alt="">
           </div>
           <div class="content">
             <a href="#" class="header">Moss Carpet</a>
@@ -124,7 +124,7 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image">
-            <img src="<?php echo base_url();?>/img/products/bike.jpg" alt="">
+            <img src="<?php echo base_url();?>img/products/bike.jpg" alt="">
           </div>
           <div class="content">
             <a href="#" class="header">Bamboo Bike</a>
@@ -146,7 +146,7 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image white-bg">
-            <img src="<?php echo base_url();?>/img/products/echo chocolate.jpg" alt="" class="card-img">
+            <img src="<?php echo base_url();?>img/products/echo chocolate.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Choco Loco Bards</a>
@@ -168,7 +168,7 @@
       <div class="eight wide column">
         <div class="ui link fluid card">
           <div class="image white-bg">
-       <img src="<?php echo base_url();?>/img/products/abaca basket.jpg" alt="" class="card-img">
+       <img src="<?php echo base_url();?>img/products/abaca basket.jpg" alt="" class="card-img">
           </div>
           <div class="content">
             <a href="#" class="header">Abaca Basket</a>
