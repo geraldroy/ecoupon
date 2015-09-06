@@ -27,7 +27,7 @@
     <div class="three column row">
       <div class="column">
         <img src="<?php echo base_url(); ?>/img/tree.png" alt="" class="resize">
-        <h1>200+ Trees</h1>
+        <h1>2000+ Trees</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum, ipsam ad molestias autem iure rem nulla sequi fugiat ea architecto ipsum. Necessitatibus, deleniti. Provident dolor odit iusto, ullam laboriosam. Laudantium!</p>
       </div>
       <div class="column">
