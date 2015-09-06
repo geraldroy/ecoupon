@@ -6,7 +6,7 @@
 
 <div class="desc column">
   <h1>Eco and Local</h1>
-  <p>Buy these products from our partner organizations. We guarantee these are eco-friendly or locally made!</p>
+  <p>Find the eco-sticker on these products from our partner organizations. We guarantee these are eco-friendly or locally made!</p>
 </div>
 
 <div class="">

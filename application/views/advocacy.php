@@ -6,7 +6,11 @@
 </div>
 
 <div class="cont big-text">
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Dolorem quaerat sunt vitae, eaque minima eum beatae. Aperiam exercitationem consectetur, nesciunt vitae qui quidem voluptas quas. Asperiores vel illo fuga commodi!
+For every product that you buy with a sticker, a partner company - through our network - will give funds to NGOs to plant Philippine trees. These partner companies can have positive branding, and have their local and eco-friendly products endorsed. Since only native trees can be chosen to be planted, the damage caused by exotic trees planted on philippine soil is minimized.
+<br><br>
+In the future, we will extend our reach to the marine, energy and a lot more of environmental problems that we face due to climate change.
+<br><br>
+We believe that change starts with consciousness. Our advocacy is to make people conscious about the environment by embedding these concepts in their everyday activities and habits. It’s time we make the environment everyone’s responsibility.
 </div>
 
 <?php $this->load->view('layouts/_footer'); ?>
